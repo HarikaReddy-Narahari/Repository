@@ -31,14 +31,14 @@ main {
 
 .box1 {
     background-color: #2db641; /* Example color */
-    padding: 20px;
+    padding: 60px;
     border-radius: 10px;
     flex: 1;
 }
 
 .box2 {
     background-color: #c52fa0; /* Example color */
-    padding: 20px;
+    padding: 50px;
     border-radius: 10px;
 }
 
